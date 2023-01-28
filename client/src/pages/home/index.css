@@ -1,0 +1,60 @@
+.asagi{
+  
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+    width: 1500px;
+    height:500px ;
+
+}
+.yellowbg{
+    padding-top: 30px;
+    background-color: rgb(255, 196, 0);
+    text-align: center;
+    color: white;
+
+}
+span{
+    color: black;
+}
+
+.photobg{
+    padding-top: 30px;
+margin-left: 200px;
+margin-right: 200px;
+    justify-content: center;
+    text-align: center;
+}
+
+.indoor{
+    display: flex;
+    justify-content: space-around;
+    text-align:left;
+    padding: 20px;
+    text-decoration: none;
+    border: none;
+}
+
+i{
+    color: rgb(255, 208, 0);
+    font-size: xx-large;
+ 
+}
+
+.week{
+    margin-top: 100px;
+    display: flex;
+}
+
+.kvadrat{
+    padding:30px;
+}
+.basliq{
+    text-align: start;
+
+}
+
+.image{
+    margin-left: 40px;
+}
